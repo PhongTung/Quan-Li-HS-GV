@@ -49,7 +49,7 @@ namespace WindowsFormsApplication1
                 MessageBox.Show("Thêm thành công", "Thông báo");
             }
             else
-                MessageBox.Show("Không thể thêm", "Thông báo");
+                MessageBox.Show("thêm không thành công", "Thông báo");
         }
     }
 }
